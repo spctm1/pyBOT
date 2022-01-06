@@ -1,0 +1,2 @@
+token = "2112572952:AAENNMDFBAQxTc7TR6Rb8z7y9BlcTM095GA"
+open_weather_token="b774ab014a082dc548cb2d961d8254ee"
